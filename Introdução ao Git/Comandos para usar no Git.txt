@@ -1,0 +1,21 @@
+Guia com alguns comandos para utilizar no Git
+
+-> Dir = listar pasta
+-> clear = limpar tela
+-> tecla TAB= auto complete para os comandos
+-> CD = acessar as pastas
+-> CD.. = voltar uma pasta
+-> MkDIR = criar pastas
+-> Echo = faz um print na tela do terminal algo escrito
+-> Del = deleta arquivos
+-> RMDIR = remove todo o diretorio
+-> Git Init = cria um novo repositorio do git
+-> Git status = Exibe a condição da arvore de trabalho
+-> Git commit = Permite que você crie um commit
+-> Git add = adiciona o conteúdo do arquivo ao índice
+-> Git push = é usado para enviar o conteúdo do repositório local 
+para o repositorio remoto.
+-> Git pull = é usado para atualizar as branchs locais de acordo com 
+as branches remotas.
+-> Git clone = utilizado para copiar um repositorio remoto para o repositorio
+local.
